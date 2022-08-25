@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibragim</h1>
-<h3 align="center">Developer from Poalnd</h3>
+<h3 align="center">Developer from Poland</h3>
 
-- 🔭 I’m currently working on [Minecraft IDs App](https://github.com/IbremMiner837/MC-IDs-App)
+- 🔭 I’m currently working on [Settings for Free Free App](https://github.com/IbremMiner837/Garena-Free-Fire-Settings)
 
 <h3 align="left">I'm here:</h3>
 <p align="left">
